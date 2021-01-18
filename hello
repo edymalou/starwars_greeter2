@@ -8,4 +8,6 @@ for crew_member in "${SW_CREW[@]}"; do
   echo "Hi ${crew_member}"
 done
 
+echo "Hi everyone"
+
 
