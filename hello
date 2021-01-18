@@ -2,7 +2,11 @@
 #
 # Automated greeter for Star Wars crew
 
+<<<<<<< HEAD
 SW_CREW=("Leila" "R3D3" "Han Duo" "Malika")
+=======
+SW_CREW=("Leia" "R2D2" "Han Solo")
+>>>>>>> dfe3e6ccbef84271c3527ddc28b2fc40fac1c830
 
 for crew_member in "${SW_CREW[@]}"; do
   echo "Hi ${crew_member}"
